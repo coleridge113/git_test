@@ -1,0 +1,12 @@
+CREATE NEW FILE IN git_test
+1. Create a file in "git_test"
+2. git add "new_file.*"
+3. git commit -m "message for snapshot"
+4. git push origin/main
+
+EDIT FILE IN git_test
+1. Edit a file in "git_test"
+2. git add "file.*"
+3. git commit -m "message for snapshot"
+4. git push origin/main
+
